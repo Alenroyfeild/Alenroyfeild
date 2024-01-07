@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alenroyfeild
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning UIKit
+- 👨🏼‍💻 I’m currently working on UIKit
+- 🌱 I'm exploring SwitUI, KMP
 
 
 <!---
