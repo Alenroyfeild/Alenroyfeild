@@ -26,31 +26,31 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-* **Swift** ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-* **Kotlin** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-* **Java** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-* **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### iOS Ecosystem
-* **UIKit** ![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **SwiftUI** ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **Combine** ![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **CoreData** ![CoreData](https://img.shields.io/badge/CoreData-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **URLSession** ![URLSession](https://img.shields.io/badge/URLSession-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **NotificationCenter** ![NotificationCenter](https://img.shields.io/badge/NotificationCenter-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **Core Animation** ![Core Animation](https://img.shields.io/badge/Core%20Animation-000000?style=for-the-badge&logo=apple&logoColor=white)
+### 📱 iOS Ecosystem
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-000000?style=for-the-badge&logo=apple&logoColor=white)
+![URLSession](https://img.shields.io/badge/URLSession-000000?style=for-the-badge&logo=apple&logoColor=white)
+![NotificationCenter](https://img.shields.io/badge/NotificationCenter-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Core Animation](https://img.shields.io/badge/Core%20Animation-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Architecture & Patterns
-* **MVVM** ![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
-* **Modular SDK Design** ![Modular SDK Design](https://img.shields.io/badge/Modular%20SDK-green?style=for-the-badge)
-* **PubSub** ![PubSub](https://img.shields.io/badge/PubSub-orange?style=for-the-badge)
+### 📐 Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
+![Modular SDK Design](https://img.shields.io/badge/Modular%20SDK-green?style=for-the-badge)
+![PubSub](https://img.shields.io/badge/PubSub-orange?style=for-the-badge)
 
-### Tools
-* **Xcode** ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-* **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* **Postman** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-* **Figma** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🧰 Tools
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
